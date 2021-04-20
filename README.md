@@ -1,4 +1,5 @@
 # prueba2
 Aplicacion de Java EE de prueba
 
-Conflicto
+Mi nombre xD
+No Conflicto
